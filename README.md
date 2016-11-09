@@ -1,2 +1,2 @@
 # Thesaurizor-Chrome-Extension-
-This chrome extension will look up the highlighted word in a Thesaurus
+This chrome extension will look up the typed word in a Thesaurus
