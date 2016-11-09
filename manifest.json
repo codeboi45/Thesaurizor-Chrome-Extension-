@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Thesaurizor Plug-In",
+  "description": "This extension will look up the highlighted word in a Thesaurus",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
